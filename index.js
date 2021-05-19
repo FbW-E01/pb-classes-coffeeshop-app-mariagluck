@@ -1,8 +1,9 @@
 class CoffeeShop {
 	constructor (name, menu, orders = []) {
 		this.name = name;
-    	this.menu = menu;
-    	this.orders = orders;
+		this.menu = menu;
+		this.orders = orders;
+		
 	}
 
 	
